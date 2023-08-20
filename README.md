@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <details>
-  <summary>Something</summary>
-    <details>
+<summary>Something</summary>
+      <details>
       <summary>Next thing</summary>
-    </details>
+      </details>
 </details>
